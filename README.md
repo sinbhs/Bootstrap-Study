@@ -13,6 +13,7 @@ For collaboration using bootstrap
     - 선정된 사이트 : https://www.zetmobility.com/index.html
 - 2020.11.29 : 1차 완성_담당 페이지 공유/피드백 + 공통 요소 코딩 합의 + 보완 목록 정리
 - 2020.12.06 : 2차 완성_담당 페이지 공유/피드백 + 오류 수정
+- 2020.12.20 : fin 완성 + 홈페이지 연결
 
 ## Contact
 - 함께 나눌 이야기가 있으시다면, 아래의 이메일로 연락 주세요!
